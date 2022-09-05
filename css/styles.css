@@ -2,6 +2,9 @@ body {
   background: rgb(255, 228, 170);
   text-align: center;
 }
+h1 {
+  font-size: 50px;
+}
 
 p {
   font-size: 20px;
