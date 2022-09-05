@@ -1,0 +1,32 @@
+body {
+  background: rgb(255, 228, 170);
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  padding: 0px 30px;
+}
+
+a {
+  font-size: 20px;
+  padding: 20px;
+  margin: 20px;
+  color: rgb(34, 42, 107);
+}
+
+a:hover {
+  color: rgb(159, 42, 1);
+}
+
+img {
+  border-radius: 20px;
+  margin: 20px;
+  margin-bottom: 20px;
+}
+
+.mail-link {
+  margin: 0px;
+  padding: 0px;
+  color: blue;
+}
